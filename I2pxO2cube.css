@@ -1,0 +1,61 @@
+<!-- @font-face { font-family: 'koverwatch'; src:url("koverwatch.ttf");}-->
+    h1 {
+        color: rgb(80, 32, 158);
+        font-family: 'koverwatch';
+        src:url("koverwatch.ttf");
+        font-size: 120px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+    h2, h3 {
+        font-family: 'koverwatch';
+        src:url("koverwatch.ttf");
+        font-size: 40px;
+    }
+    h4 {
+        color: rgba(42, 42, 138, 0.87);
+        font-family: 'koverwatch';
+        src:url("koverwatch.ttf");
+        font-size: 30px;
+    }
+    h2 {
+        color: rgba(21, 21, 143, 0.87);
+    }
+    h3 {
+        color: rgba(0, 0, 128, 0.87);
+    }
+    [href]:link {
+        color: cornflowerblue;
+        text-decoration: none;
+    }
+    [href]:visited {
+        color: lightcoral;
+    }
+    [href]:hover {
+        color: slateblue;
+        text-decoration: underline;
+    }
+    span {
+        font-family: 'koverwatch';
+        src:url("koverwatch.ttf");
+        font-size: 30px;
+    }
+    p {
+        font-family: 'koverwatch';
+        src:url("koverwatch.ttf");
+        font-size: 25px;
+    }
+    .proj {
+        color:royalblue;
+    }
+    .prog {
+        color: seagreen;
+    }
+    .art {
+        color:palevioletred;
+    }
+    ul { list-style-type: none; }
+    li { font-family: 'koverwatch'; src:url("koverwatch.ttf"); font-size: 25px;}
+    fieldset{width: 50%; margin:10px;}
+    .show-on-scroll { visibility: hidden; }
+    .show-on-scroll.shown { visibility: visible; }
